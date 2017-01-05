@@ -1,0 +1,46 @@
+[*]
+[*] GTKWave Analyzer v3.3.68 (w)1999-2016 BSI
+[*] Thu Jan 05 08:45:36 2017
+[*]
+[dumpfile] "D:\Users\thirion2\Documents\FPGA\CDCFIFO8\SIM\wave.vcd"
+[dumpfile_mtime] "Thu Jan 05 08:36:10 2017"
+[dumpfile_size] 132639
+[savefile] "D:\Users\thirion2\Documents\FPGA\CDCFIFO8\SIM\wave.gtkw"
+[timestart] 880300000
+[size] 1667 623
+[pos] -1 -24
+*-26.043077 1122000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] i_cdcfifo8_0.
+[sst_width] 197
+[signals_width] 193
+[sst_expanded] 1
+[sst_vpaned_height] 262
+@28
+wclk
+write
+@22
+din[7:0]
+@28
+full
+@24
+i_cdcfifo8_0.wadr[2:0]
+i_cdcfifo8_0.wgray[2:0]
+@28
+rclk
+read
+@29
+read_out
+@22
+dout[7:0]
+@28
+empty
+@24
+i_cdcfifo8_0.radr[2:0]
+i_cdcfifo8_0.rgray[2:0]
+@28
+running
+nrst
+i_cdcfifo8_0.rreset
+i_cdcfifo8_0.wreset
+[pattern_trace] 1
+[pattern_trace] 0
